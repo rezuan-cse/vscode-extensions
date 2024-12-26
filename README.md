@@ -2,3 +2,6 @@
 # vscode-extensions
 - Prettier - Code formatter
 - Live Server
+
+# Browser
+- Google Chrome
